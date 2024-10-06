@@ -1,0 +1,11 @@
+[Unit]
+Description=<SERVICE_NAME>
+After=syslog.target network.target
+
+[Service]
+ExecStart=<FULL_PATH>
+Restart=always
+User=ubuntu
+
+[Install]
+WantedBy=multi-user.target
