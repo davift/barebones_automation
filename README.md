@@ -1,5 +1,7 @@
 # barebones_automation
 
+![Static Badge](https://img.shields.io/badge/Python-blue?style=social&logo=Python) ![Static Badge](https://img.shields.io/badge/Bash-blue?style=social&logo=gnubash)
+
 The script in this repo were created based on my personal notes and have no utility as they are. Instead, they shoudl be used as a starting point to avoid start from scratch every time.
 
 Every thing you can see is basic and shall be mastered by any SysAdm or DevOps because Bash and Python are the base of the Linux automation.
